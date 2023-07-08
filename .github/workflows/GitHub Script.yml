@@ -13,3 +13,5 @@
     previews: # optional
     # Either "string" or "json" (default "json")—how the result will be encoded
     result-encoding: # optional, default is json
+
+runs-on: self-hosted
